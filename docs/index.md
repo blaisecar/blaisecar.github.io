@@ -23,6 +23,13 @@ The Canyon, where you can gather Clay
 And The Mountain, where you can gather Horns
 ![mountainimage](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/07661ca4-e300-4d9a-baa8-6c92023dd7b8)
 
+All of these areas are instances of the class Location, which are connected to Player and Game.
+![code1](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/4c74db40-15ae-4165-ae51-d8206fcf78f8)
+
+Within these Location instances, a corresponding item to CurrentLocation is used, in order to determine what item will be given when the
+"Collect Item" button is pressed.
+
+
 
 
 
