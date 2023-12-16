@@ -30,8 +30,11 @@ Within these Location instances, a corresponding item to CurrentLocation is used
 "Collect Item" button is pressed.
 
 ![code3](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/46590116-e973-4e36-9e6c-3afb039771f9)
+This code here is what registers that.
 ![code4](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/15fcd70a-dd41-44e5-a519-63d0a5775480)
+This code is for showing the proper UI elements depending on the area.
 ![code5](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/6f57eedd-9aa4-47fd-b3f5-03035c2180e6)
+This is some of the code for the Item class itself, which are objects placed into the Inventory list.
 
 
 
