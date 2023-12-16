@@ -40,7 +40,14 @@ Once you bring all the items from each area and trade them to the town NPC, you 
 
 
 Other projects:
-
+![rpggamescreencap](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/4b6d9627-e477-4765-b550-356b8b97c20c)
+This was an RPG game I was working on this year with a lot of ambition put into it, with the intention for it being my final. I worked
+on it  for multiple weeks, but ultimately it was too big of a project for me to handle. It was going to be an item collector similar
+to my final, but with combat against enemies that gave you the items, 2 classes with many varying stats and a level up system, and many
+items to trade instead of just a couple.
+![cookinggamescreencap](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/dd1b907a-2dc1-401f-b1ef-7cad8df12fac)
+This was my Console App cooking game. It was very basic, but what I learned from it was how to operate console apps effectively, as well
+as how to integrate timers into C#.
 
 
 
