@@ -36,6 +36,12 @@ This code is for showing the proper UI elements depending on the area.
 ![code5](https://github.com/blaisecar/blaisecar.github.io/assets/153130544/6f57eedd-9aa4-47fd-b3f5-03035c2180e6)
 This is some of the code for the Item class itself, which are objects placed into the Inventory list.
 
+Once you bring all the items from each area and trade them to the town NPC, you win the game, getting the ultimate item!
+
+
+Other projects:
+
+
 
 
 
